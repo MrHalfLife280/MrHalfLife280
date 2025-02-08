@@ -1,6 +1,6 @@
 # Welcome to MrHalfLife's GitHub Profile!
 
-- 👋 Hi, I’m @MrHalfLife280
+* 👋 Hi, I’m @MrHalfLife280
 * 👀 I’m interested in Coding and IT
 * 📫 How to reach me: mrhalflife@munitionne.serv00.net
 * 😄 Pronouns: He/him
