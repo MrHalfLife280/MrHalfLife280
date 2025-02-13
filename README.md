@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+MrHalfLife280's+profile;Thanks+for+viewing+my+profile;have+a+nice+day)](https://git.io/typing-svg)
 
-# NOTE
+# NOTE (for those who use Edge or Chromium based browsers)
 
 Some browsers, like Edge, may say that my compiled programs are "malicious." You could look into the source code. This usually happens because the compiled exe doesn't have a signature.
 
