@@ -18,7 +18,7 @@ I love playing TF2, animating in Source Filmmaker, and editing videos in DaVinci
 
 # Music
 
-I like to make music in LMMS with MIDIs, you can find them here: https://www.youtube.com/@MrHalfLifeMusic
+I like to make music in LMMS with MIDIs, you can find them here: https://youtube.com/channel/UCg0oh7mDOinFlMXJS1Q1v_A
 
 
 <!---
