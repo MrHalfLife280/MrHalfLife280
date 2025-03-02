@@ -10,7 +10,7 @@
 
 # Projects
 Here are projects that I am working on
-* [HalfTube](https://halftube.neocities.org/) - A mid-2005-based YouTube revival, but the only way you get your content there is via email
+* [HalfTube](https://halftube.nloadvideo.com/) - A mid-2005-based YouTube revival, but the only way you get your content there is via email
 
 # NOTE (for those who use Edge or Chromium-based browsers)
 
