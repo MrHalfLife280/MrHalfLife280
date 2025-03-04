@@ -1,12 +1,11 @@
 # Welcome to MrHalfLife's GitHub Profile!
 
-* 👋 Hi, I’m @MrHalfLife280
+* 👋 Hi, I’m Arman (Online alias: MrHalfLife)
 * 👀 I’m interested in Coding and IT
 * 📫 How to reach me: mrhalflife@munitionne.serv00.net
 * 😄 Pronouns: He/him
 * ⚡ Fun fact: I don't know what to put here
-
-NOTE: I am a minor (13)
+* Birthday: 08.12.2011 (I AM A MINOR!!!)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+MrHalfLife280's+profile;Thanks+for+viewing+my+profile;have+a+nice+day)](https://git.io/typing-svg)
 
