@@ -2,7 +2,7 @@
 
 * 👋 Hi, I’m Arman (Online alias: MrHalfLife)
 * 👀 I’m interested in Coding and IT
-* 📫 How to reach me: mrhalflife@munitionne.serv00.net
+* 📫 How to reach me: mrhalflife@proton.me
 * 😄 Pronouns: He/him
 * ⚡ Fun fact: I don't know what to put here
 *  Birthday: 08.12.2011 (I AM A MINOR!!!)
