@@ -1,3 +1,5 @@
+![logo](logo.png "logo")
+
 # Welcome to MrHalfLife's GitHub Profile!
 
 * 👋 Hi, I’m Arman (Online alias: MrHalfLife)
