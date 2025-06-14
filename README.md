@@ -2,12 +2,12 @@
 
 # hi, I am MrHalfLife, nice to see you :)
 
-* 👋 Hi, I’m Arman (Online alias: MrHalfLife)
-* 👀 I’m interested in Coding and IT
-* 📫 How to reach me: mrhalflife@proton.me
-* 😄 Pronouns: He/him
-* ⚡ Fun fact: I don't know what to put here
-*  Birthday: 8th of December
+* Hi, I’m Arman (Online alias: MrHalfLife)
+* I’m interested in Coding and IT
+* How to reach me: mrhalflife@proton.me
+* Pronouns: He/him
+* Fun fact: I don't know what to put here
+* Birthday: 8th of December
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+MrHalfLife280's+profile;Thanks+for+viewing+my+profile;have+a+nice+day)](https://git.io/typing-svg)
 
