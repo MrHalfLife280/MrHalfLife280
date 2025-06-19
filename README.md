@@ -13,8 +13,10 @@
 
 # Projects
 Here are projects that I really like that I did
-* [HalfTube](https://halftube.neocities.org/) - A mid-2005-based YouTube revival, but the only way you get your content there is via email
-* [HalfBeats](https://github.com/MrHalfLife280/HalfBeats) - A simple Drum Beat maker, coded in Python, and using MIDI
+* [HalfTube](https://halftube.neocities.org/) - A mid-2005-based YouTube revival, but the only way you get your content there is via email.
+* [HalfBeats](https://github.com/MrHalfLife280/HalfBeats) - A simple Drum Beat maker, coded in Python, and using MIDI.
+* [Startpage](https://github.com/MrHalfLife280/Startpage) - A simple Startpage.
+* [HalfBlog](https://mrhalflife280.github.io/HalfBlog/) - A Blog hosted under [GitHub Pages](https://pages.github.com/)
 
 # NOTE (for those who use Edge or Chromium-based browsers)
 
