@@ -12,9 +12,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+MrHalfLife280's+profile;Thanks+for+viewing+my+profile;have+a+nice+day)](https://git.io/typing-svg)
 
 # Projects
-Here are projects that I am working on
+Here are projects that I really like that I did
 * [HalfTube](https://halftube.neocities.org/) - A mid-2005-based YouTube revival, but the only way you get your content there is via email
-* [HalfBeats](https://github.com/MrHalfLife280/HalfBeats)
+* [HalfBeats](https://github.com/MrHalfLife280/HalfBeats) - A simple Drum Beat maker, coded in Python, and using MIDI
 
 # NOTE (for those who use Edge or Chromium-based browsers)
 
