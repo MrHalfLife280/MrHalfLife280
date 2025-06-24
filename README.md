@@ -1,9 +1,9 @@
 ![logo](logo.png "logo")
 
-# hi, I am MrHalfLife, nice to see you :)
+# Hello and Welcome to my GitHub Profile!
 
-* Hi, I’m Arman (Online alias: MrHalfLife)
-* I’m interested in Coding and IT
+* Hi, I’m MrHalfLife
+* I’m interested in Coding, IT and music
 * How to reach me: mrhalflife@proton.me
 * Pronouns: He/him
 * Fun fact: I don't know what to put here
